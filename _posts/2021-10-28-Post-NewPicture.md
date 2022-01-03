@@ -2,6 +2,8 @@
 layout: posts
 title: Successful People Of IUST
 ---
+فارغ التحصیلان موفق رشته کامپیوتر علم و صنعت
+
 
 [Ali Niknejad](https://www.linkedin.com/in/ali-niknejad-ph-d-41259a41/)
 Senior Software Engineer at Microsoft
