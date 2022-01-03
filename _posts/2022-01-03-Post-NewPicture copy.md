@@ -10,7 +10,7 @@ title: My Hackathon Project
 
 [To Do List](http://99441029.pythonanywhere.com/)
 
-
-![alt text](../assets/images/a.jpg "To Do List")
+<a href="http://99441029.pythonanywhere.com/"><img src="../assets/images/a.jpg To Do List"></a>
+<!-- ![alt text](../assets/images/a.jpg "To Do List") -->
 
 ---
